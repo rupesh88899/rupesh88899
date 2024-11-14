@@ -12,7 +12,7 @@ I am engrossed in mastering DSA and enhancing my skills in full-stack developmen
 🔍 **Seeking:**  
 I am eager to collaborate on innovative projects, contribute to open-source initiatives, and connect with fellow technology enthusiasts.
 
-[![](https://visitcount.itsvg.in/api?id=satendra03&icon=6&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rupesh88899&icon=6&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
