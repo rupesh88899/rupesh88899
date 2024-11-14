@@ -38,12 +38,6 @@ I am eager to collaborate on innovative projects, contribute to open-source init
 ## 👨‍💻 LeetCode
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=rupesh888999&theme=github-drak" alt="LeetCode Badges"/>
 
-## Others 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/satendra_03/)
-[![GeekForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/satendra_03)
-[![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/satendra03)
-[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/satendra_03)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
