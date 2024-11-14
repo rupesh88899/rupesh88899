@@ -36,7 +36,7 @@ I am eager to collaborate on innovative projects, contribute to open-source init
 ![](https://github-profile-trophy.vercel.app/?username=rupesh88899&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 👨‍💻 LeetCode
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=rupesh888999&theme=github-drak" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=rupesh888999&theme=dark&border=border&animated=true"/>
 
 
 ### ✍️ Random Dev Quote
