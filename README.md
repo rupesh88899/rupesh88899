@@ -1,16 +1,13 @@
 # 💫 About Me:
 
 👨‍💻 **Who am I:**  
-I am a dedicated engineering student with a fervent passion for learning and innovation.
-
-🛠️ **Current Endeavors:**  
-I am intensively studying Data Structures and Algorithms (DSA) while expanding my expertise in flutter development.
+I am a dedicated Flutter Developer with 1.5+ years of experience designing, building, and shipping cross-platform mobile applications (Android & iOS) for global startups.
 
 📚 **Ongoing Learning:**  
-I am engrossed in mastering DSA and enhancing my skills in app development using Flutter.
+Specializing in GetX, Riverpod, Provider, BLoC, MVC, MVVM, and Clean Architecture, alongside real-time integrations (Agora, ZegoCloud, WebSockets, GraphQL, RESTful APIs) that have delivered 30%+ performance gains and 99.8% API reliability.
 
 🔍 **Seeking:**  
-I am eager to collaborate on innovative projects, contribute to open-source initiatives, and connect with fellow technology enthusiasts.
+I am eager to collaborate on innovative mobile products, contribute to open-source initiatives, and connect with fellow technology enthusiasts.
 
 [![](https://visitcount.itsvg.in/api?id=rupesh88899&icon=6&color=0)](https://visitcount.itsvg.in)
 
