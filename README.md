@@ -21,20 +21,6 @@ I am eager to collaborate on innovative mobile products, contribute to open-sour
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rupesh88899&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<span width="50px"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rupesh88899&theme=dark&hide_border=false)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh88899&theme=dark&hide_border=false&include_all_commits=true&count_private=false&)
-<img width="690px" src="https://github-readme-activity-graph.vercel.app/graph?username=rupesh88899&theme=github">
-</br>
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rupesh88899&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rupesh88899&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ## 👨‍💻 LeetCode
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=rupesh888999&theme=dark&border=border&animated=true"/>
 
